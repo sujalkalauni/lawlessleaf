@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 💻 Computer Science Student
-- 🌱 Currently working on AI & Full Stack Development
+- 🌱 Currently working on DSA & Full Stack Development
 - 🎯 Focus: Machine Learning, Cybersecurity, DSA
 - 🌐 Portfolio: [kalauni.com](https://kalauni.com)
 
@@ -24,7 +24,7 @@
 
 ### 📫 Connect with Me
 [![EMail]](sujal!kalauni@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+
 
 ---
-⭐️ From [lawlessleaf](https://github.com/lawlessleaf)
+⭐️ From [sujalkalauni](https://github.com/sujalkalauni)
